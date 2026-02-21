@@ -8,3 +8,4 @@ print(df)
 print("Середнє значення:", df["sales"].mean())
 
 # one more merged
+# and one more merged
