@@ -5,7 +5,10 @@ df = pd.DataFrame(data)
 
 print("Продажі по містах:")
 print(df)
-print("Середнє значення:", df["sales"].mean())
+
+average_sales = df["sales"].mean()
+print("Середнє значення:", average_sales)
+print("Це середній рівень продажів по трьох містах")
 
 # one more merged
 # and one more merged
