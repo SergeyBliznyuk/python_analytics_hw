@@ -12,3 +12,5 @@ print("Це середній рівень продажів по трьох мі�
 
 # one more merged
 # and one more merged
+
+# this is a feature before revert
